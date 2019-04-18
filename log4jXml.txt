@@ -1,2 +1,13 @@
 2019-04-18 13:13:13 INFO  App:14 - Driver yüklenmiştir
 2019-04-18 13:13:14 INFO  App:24 - Veritabanı bağlantısı kurulmuştur 
+2019-04-18 14:08:21 INFO  App:14 - Driver yüklenmiştir
+2019-04-18 14:08:21 INFO  App:24 - Veritabanı bağlantısı kurulmuştur 
+2019-04-18 14:08:37 INFO  App:15 - Driver yüklenmiştir
+2019-04-18 14:08:38 INFO  App:25 - Veritabanı bağlantısı kurulmuştur 
+2019-04-18 14:08:38 INFO  App:35 - statement oluşturulmuştur
+2019-04-18 14:08:38 ERROR App:56 - Veritabanından veri çekilme işleminde hata oluşmuştur   HATA :java.sql.SQLSyntaxErrorException: Table 'javaexample.personeller' doesn't exist
+2019-04-18 14:09:30 INFO  App:15 - Driver yüklenmiştir
+2019-04-18 14:09:31 INFO  App:25 - Veritabanı bağlantısı kurulmuştur 
+2019-04-18 14:09:31 INFO  App:35 - statement oluşturulmuştur
+2019-04-18 14:09:31 INFO  App:53 - Veritabanından veri çekilmiştir
+2019-04-18 14:09:31 INFO  App:53 - Veritabanından veri çekilmiştir

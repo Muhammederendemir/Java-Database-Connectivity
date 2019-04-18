@@ -6,7 +6,11 @@
 
   <groupId>JDBC</groupId>
   <artifactId>JDBC</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>DataBaseSelectExample</module>
+  </modules>
 
   <name>JDBC</name>
   <!-- FIXME change it to the project's website -->

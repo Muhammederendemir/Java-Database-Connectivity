@@ -1,0 +1,29 @@
+                                 ====   JAVA DATABASE CONNECTİVİTY (JDBC)   ====
+
+    Java ile ilişkisel bir veritabanına erişmek ve verisel işlemler yapmak istiyorsak program-veritabanı arasındaki köprüdürJDBC.
+   JDBC programdan bağımsız bir şekilde yazılarak farklı programlarda kullanılabilmektedir.
+
+    JDBC ile herhangi bir veritabanına bağlanarak SQL komutları ile verilere erişebildiğimiz bir yapıdır. Kullanılan veritabanına
+   göre bağlantı çeşidini değiştirmemiz yeterli olmakta.
+
+    Java uygulamamız herhangi bir alanda olabilir.  Masaüstü uygulaması, FX, JSP, JSF gibi Java’nın herhangi dalında uğraşıyor
+   olursanız olun JDBC bize katkı sağlayacaktır.
+
+    JDBC API sayesinde sorgularımızı programımızdan yazmaktayız.
+
+    JDBC Driver Manager sayesinde farklı veritabanlarına bağlanabilmekteyiz.
+
+                                      --->   GENEL OLARAK   <---
+
+    JDBC kullanmaya başlamaya karar verdiysek genellikle yapacağımız adımlar şunlar. (Bu adımları tek tek ileriki yazılarımda
+   inceleyeceğiz)
+
+       - Veritabanımız ile bağlantı oluşturacağız.
+
+       - JDBC Driver’imizi yükleyeceğiz.
+
+       - Statement/PreparedStatement sorgularımızı oluşturacağız.
+
+       - Resultset oluşturacağız
+
+       - Ve son olarak oluşturduğumuz bağlantıyı/statementi/resulset’i kapatacağız.
