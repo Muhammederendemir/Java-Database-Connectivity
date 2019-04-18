@@ -1,0 +1,2 @@
+2019-04-18 13:13:13 INFO  App:14 - Driver yüklenmiştir
+2019-04-18 13:13:14 INFO  App:24 - Veritabanı bağlantısı kurulmuştur 
