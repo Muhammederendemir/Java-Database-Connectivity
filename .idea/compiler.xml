@@ -9,5 +9,9 @@
         <module name="DataBaseSelectExample" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DataBaseExample" target="1.7" />
+      <module name="DataBaseSelectExample1" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

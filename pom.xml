@@ -30,6 +30,8 @@
       <scope>test</scope>
     </dependency>
 
+
+
     <!-- mysql baglantı icin -->
     <dependency>
       <groupId>mysql</groupId>

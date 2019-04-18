@@ -2,6 +2,9 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataBaseExample" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DataBaseSelectExample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataBaseSelectExample1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataBaseSelectExample1" charset="UTF-8" />
   </component>
 </project>
